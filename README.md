@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp?style=flat-square" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp?style=flat-square" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Intelligent-Document-Processing-Idp?style=flat-square" alt="Last Commit" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,7 +72,7 @@ The table below catalogs premier SaaS IDP platforms, sorted in **descending orde
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-The following open-source IDP libraries, layout analysis tools, and OCR engines are sorted in **descending order by GitHub star count**. Each project includes a live star badge linking directly to its stargazers page.
+The following open-source IDP libraries, layout analysis tools, and OCR engines are sorted in **descending order by GitHub Stars_Count**. Each project includes a live Stars_Badge linking directly to its stargazers page.
 
 1. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
    Ultra-popular, multi-lingual OCR and document intelligence toolkit supporting 100+ languages. Features PP-StructureV2 for layout analysis, table recognition (generating HTML/Excel directly), key information extraction (KIE), and lightweight ONNX export options.
@@ -201,7 +201,7 @@ Production IDP deployments incorporate a <b>Human-in-the-Loop (HITL)</b> validat
 We welcome community contributions! To add a new tool or update existing information:
 
 1. 🍴 **Fork the repository** on GitHub.
-2. ✏️ **Edit `README.md`** following the established format (include links, transparent pricing, star badges, and factual descriptions).
+2. ✏️ **Edit `README.md`** following the established format (include links, transparent pricing, Stars_Badges, and factual descriptions).
 3. 🧪 **Verify all links and figures** before submitting.
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
 
